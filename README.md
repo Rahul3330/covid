@@ -1,0 +1,2 @@
+# covid
+about crona detction
